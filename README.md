@@ -8,6 +8,10 @@ If you want to know more about this project go to the FreeCodeCamp original repo
 
 _[ :classical_building: FreeCodeCamp original repo](https://github.com/PatrickAlphaC/graph-nft-marketplace-fcc)_
 
+# Demo
+
+https://nextjs-nft-marketplace-thegraph-fcc.vercel.app/
+
 # Quickstart
 
 1. Install Subgraph CLI
